@@ -1,6 +1,6 @@
 # web app deployed on Heroku
 
-The deployed web app is live at https://taseer-test-app.herokuapp.com/
+The deployed web app is live at https://AR-test-app.herokuapp.com/
 
 
 
